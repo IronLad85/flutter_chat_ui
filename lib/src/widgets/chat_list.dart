@@ -79,7 +79,10 @@ class _ChatListState extends State<ChatList>
     curve: Curves.easeOutQuad,
     parent: _controller,
   );
-  late final AnimationController _controller = AnimationController(vsync: this);
+  late final AnimationController _controller = AnimationController(
+    vsync: this,
+    duration: const Duration(milliseconds: 100),
+  );
 
   bool _indicatorOnScrollStatus = false;
   bool _isNextPageLoading = false;

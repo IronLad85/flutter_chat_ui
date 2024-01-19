@@ -33,24 +33,24 @@ dev_dependencies:
 
 flutter:
   assets:
-    - packages/flutter_chat_ui/assets/icon-arrow.png
-    - packages/flutter_chat_ui/assets/icon-attachment.png
-    - packages/flutter_chat_ui/assets/icon-delivered.png
-    - packages/flutter_chat_ui/assets/icon-document.png
-    - packages/flutter_chat_ui/assets/icon-error.png
-    - packages/flutter_chat_ui/assets/icon-seen.png
-    - packages/flutter_chat_ui/assets/icon-send.png
-    - packages/flutter_chat_ui/assets/2.0x/icon-arrow.png
-    - packages/flutter_chat_ui/assets/2.0x/icon-attachment.png
-    - packages/flutter_chat_ui/assets/2.0x/icon-delivered.png
-    - packages/flutter_chat_ui/assets/2.0x/icon-document.png
-    - packages/flutter_chat_ui/assets/2.0x/icon-error.png
-    - packages/flutter_chat_ui/assets/2.0x/icon-seen.png
-    - packages/flutter_chat_ui/assets/2.0x/icon-send.png
-    - packages/flutter_chat_ui/assets/3.0x/icon-arrow.png
-    - packages/flutter_chat_ui/assets/3.0x/icon-attachment.png
-    - packages/flutter_chat_ui/assets/3.0x/icon-delivered.png
-    - packages/flutter_chat_ui/assets/3.0x/icon-document.png
-    - packages/flutter_chat_ui/assets/3.0x/icon-error.png
-    - packages/flutter_chat_ui/assets/3.0x/icon-seen.png
-    - packages/flutter_chat_ui/assets/3.0x/icon-send.png
+    - lib/assets/icon-arrow.png
+    - lib/assets/icon-attachment.png
+    - lib/assets/icon-delivered.png
+    - lib/assets/icon-document.png
+    - lib/assets/icon-error.png
+    - lib/assets/icon-seen.png
+    - lib/assets/icon-send.png
+    - lib/assets/2.0x/icon-arrow.png
+    - lib/assets/2.0x/icon-attachment.png
+    - lib/assets/2.0x/icon-delivered.png
+    - lib/assets/2.0x/icon-document.png
+    - lib/assets/2.0x/icon-error.png
+    - lib/assets/2.0x/icon-seen.png
+    - lib/assets/2.0x/icon-send.png
+    - lib/assets/3.0x/icon-arrow.png
+    - lib/assets/3.0x/icon-attachment.png
+    - lib/assets/3.0x/icon-delivered.png
+    - lib/assets/3.0x/icon-document.png
+    - lib/assets/3.0x/icon-error.png
+    - lib/assets/3.0x/icon-seen.png
+    - lib/assets/3.0x/icon-send.png
